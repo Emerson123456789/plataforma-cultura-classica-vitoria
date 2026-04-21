@@ -1,5 +1,84 @@
-# Vue 3 + Vite
+# Plataforma Digital para Promoção da Cultura Clássica na Grande Vitória
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicação web desenvolvida como MVP para organização, consulta e visualização de instituições e eventos culturais ligados à cultura clássica na Região Metropolitana de Vitória/ES.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Objetivo
+
+O projeto busca enfrentar o problema da fragmentação e da baixa visibilidade digital de iniciativas culturais, reunindo em uma interface simples informações sobre instituições e eventos.
+
+## Funcionalidades implementadas
+
+- listagem de instituições culturais
+- listagem de eventos culturais
+- busca por nome de instituição
+- busca por título de evento
+- filtros por categoria
+- página de detalhes de instituições
+- página de detalhes de eventos
+- mapa com marcadores das instituições
+- área administrativa simples para cadastro local
+- persistência local com `localStorage`
+
+## Tecnologias utilizadas
+
+- Vue 3
+- Vite
+- Vue Router
+- HTML5
+- CSS3
+- JavaScript
+- Leaflet
+
+## Estrutura do projeto
+
+``` id="bxomfy"
+src/
+  assets/
+  components/
+  data/
+  router/
+  views/
+  App.vue
+  main.js
+```
+
+## Como executar o projeto
+
+### 1. Instale as dependências
+
+```bash id="hv9s2q"
+npm install
+```
+
+### 2. Execute o servidor de desenvolvimento
+
+```bash id="s5h6ym"
+npm run dev
+```
+
+### 3. Abra no navegador
+
+O terminal mostrará um endereço local, normalmente semelhante a:
+
+```text id="o4cyrt"
+http://localhost:5173/
+```
+
+## Dados da aplicação
+
+O projeto utiliza dois tipos de dados:
+
+* dados-base em arquivos JSON
+* dados cadastrados localmente via `localStorage`
+
+## Observações
+
+A área administrativa deste MVP utiliza armazenamento local no navegador, sem integração com backend nesta etapa do projeto.
+
+## Autor
+
+Emerson Gonçalves Garcia
+
+## Contexto acadêmico
+
+Projeto desenvolvido para a disciplina Projeto Integrador de Tecnologia da Informação II, no contexto do Programa de Extensão UFMS Digital.
