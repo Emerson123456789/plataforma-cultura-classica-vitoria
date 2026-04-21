@@ -31,7 +31,7 @@ O projeto busca enfrentar o problema da fragmentação e da baixa visibilidade d
 
 ## Estrutura do projeto
 
-``` id="bxomfy"
+```id="bxomfy"
 src/
   assets/
   components/
@@ -68,8 +68,8 @@ http://localhost:5173/
 
 O projeto utiliza dois tipos de dados:
 
-* dados-base em arquivos JSON
-* dados cadastrados localmente via `localStorage`
+- dados-base em arquivos JSON
+- dados cadastrados localmente via `localStorage`
 
 ## Observações
 
