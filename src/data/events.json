@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Recital de Piano e Música de Câmara",
+    "category": "Música",
+    "date": "2026-07-15",
+    "time": "19:30",
+    "institutionId": 1,
+    "location": "Auditório da FAMES, Vitória/ES",
+    "description": "Apresentação dedicada a repertório pianístico e camerístico de tradição clássica."
+  },
+  {
+    "id": 2,
+    "title": "Aula Aberta de Apreciação Musical",
+    "category": "Formação",
+    "date": "2026-09-10",
+    "time": "18:00",
+    "institutionId": 1,
+    "location": "Sala de Concertos da FAMES, Vitória/ES",
+    "description": "Encontro formativo voltado à escuta guiada de obras centrais do repertório clássico."
+  },
+  {
+    "id": 3,
+    "title": "Leitura Dramática de Texto Clássico",
+    "category": "Teatro",
+    "date": "2026-07-22",
+    "time": "20:00",
+    "institutionId": 2,
+    "location": "Teatro Carlos Gomes, Vitória/ES",
+    "description": "Leitura encenada de obra clássica com mediação e conversa com o público ao final."
+  },
+  {
+    "id": 4,
+    "title": "Concerto de Encerramento de Temporada",
+    "category": "Música",
+    "date": "2026-11-28",
+    "time": "19:00",
+    "institutionId": 2,
+    "location": "Teatro Carlos Gomes, Vitória/ES",
+    "description": "Concerto de repertório sinfônico e vocal apresentado em formato de gala."
+  },
+  {
+    "id": 5,
+    "title": "Círculo de Leitura de Clássicos",
+    "category": "Literatura",
+    "date": "2026-08-05",
+    "time": "18:30",
+    "institutionId": 3,
+    "location": "Biblioteca Pública do Espírito Santo, Vitória/ES",
+    "description": "Encontro guiado de leitura e discussão de textos clássicos da tradição ocidental."
+  },
+  {
+    "id": 6,
+    "title": "Mostra Cênica de Repertório",
+    "category": "Teatro",
+    "date": "2026-08-18",
+    "time": "19:30",
+    "institutionId": 4,
+    "location": "Centro Cultural Sesc Glória, Vitória/ES",
+    "description": "Apresentação de cenas inspiradas em obras e linguagens cênicas de repertório."
+  },
+  {
+    "id": 7,
+    "title": "Encontro de Dança e Música Antiga",
+    "category": "Dança",
+    "date": "2026-10-08",
+    "time": "19:00",
+    "institutionId": 4,
+    "location": "Centro Cultural Sesc Glória, Vitória/ES",
+    "description": "Atividade interdisciplinar com repertório histórico e diálogo entre corpo e música."
+  },
+  {
+    "id": 8,
+    "title": "Visita Mediada à Exposição de Mestres Europeus",
+    "category": "Artes Visuais",
+    "date": "2026-08-30",
+    "time": "16:00",
+    "institutionId": 5,
+    "location": "Palácio Anchieta, Vitória/ES",
+    "description": "Percurso comentado por mostra dedicada à pintura europeia e sua recepção no Brasil."
+  },
+  {
+    "id": 9,
+    "title": "Noite de Arte e Patrimônio",
+    "category": "Artes Visuais",
+    "date": "2026-12-03",
+    "time": "18:30",
+    "institutionId": 5,
+    "location": "Palácio Anchieta, Vitória/ES",
+    "description": "Programação especial com visita orientada e fala pública sobre patrimônio artístico."
+  },
+  {
+    "id": 10,
+    "title": "Encontro de Apreciação em Artes Visuais",
+    "category": "Artes Visuais",
+    "date": "2026-09-12",
+    "time": "15:00",
+    "institutionId": 6,
+    "location": "Museu de Arte do Espírito Santo (MAES), Vitória/ES",
+    "description": "Atividade de mediação cultural voltada à leitura de obras visuais e seus contextos históricos."
+  },
+  {
+    "id": 11,
+    "title": "Concerto Comentado de Música Vocal",
+    "category": "Música",
+    "date": "2026-09-25",
+    "time": "19:30",
+    "institutionId": 7,
+    "location": "Casa da Música Sônia Cabral, Vitória/ES",
+    "description": "Apresentação comentada com repertório vocal de diferentes períodos da tradição clássica."
+  },
+  {
+    "id": 12,
+    "title": "Oficina de Corpo e Repertório",
+    "category": "Dança",
+    "date": "2026-10-14",
+    "time": "17:00",
+    "institutionId": 8,
+    "location": "FAFI, Vitória/ES",
+    "description": "Atividade formativa voltada ao estudo de movimento e repertório em diálogo com a tradição da dança."
+  },
+  {
+    "id": 13,
+    "title": "Mostra Universitária de Teatro Clássico",
+    "category": "Teatro",
+    "date": "2026-10-27",
+    "time": "20:00",
+    "institutionId": 9,
+    "location": "Teatro da UFES, Vitória/ES",
+    "description": "Apresentação cênica universitária inspirada em textos e formas teatrais clássicas."
+  },
+  {
+    "id": 14,
+    "title": "Sarau Acadêmico de Releituras Dramáticas",
+    "category": "Teatro",
+    "date": "2026-11-19",
+    "time": "18:30",
+    "institutionId": 9,
+    "location": "Teatro da UFES, Vitória/ES",
+    "description": "Encontro cênico-literário com releituras de autores clássicos em formato de sarau."
+  },
+  {
+    "id": 15,
+    "title": "Oficina de Introdução à Escuta Musical",
+    "category": "Formação",
+    "date": "2026-12-10",
+    "time": "18:00",
+    "institutionId": 10,
+    "location": "Centro Cultural SESI – Vitória, Vitória/ES",
+    "description": "Atividade introdutória de formação de público, voltada à escuta e compreensão de repertório clássico."
+  }
+]

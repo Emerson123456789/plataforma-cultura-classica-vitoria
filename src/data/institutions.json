@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Faculdade de Música do Espírito Santo (FAMES)",
+    "category": "Música",
+    "address": "Praça Américo Poli Monjardim, 60, Centro, Vitória/ES, CEP 29010-640",
+    "city": "Vitória/ES",
+    "description": "Instituição de referência na formação musical e na promoção de atividades ligadas à música de concerto no Espírito Santo.",
+    "latitude": -20.3200429,
+    "longitude": -40.3288298
+  },
+  {
+  "id": 2,
+  "name": "Theatro Carlos Gomes",
+  "category": "Teatro",
+  "address": "Praça Costa Pereira, 25, Centro, Vitória/ES, CEP 29010-080",
+  "city": "Vitória/ES",
+  "description": "Espaço cultural tradicional da capital, associado a concertos, recitais, montagens cênicas e outras atividades artísticas.",
+  "latitude": -20.3196835,
+  "longitude": -40.3350956
+  },
+  {
+    "id": 3,
+    "name": "Biblioteca Pública do Espírito Santo (BPES)",
+    "category": "Literatura",
+    "address": "Av. João Batista Parra, 165, Praia do Suá, Vitória/ES, CEP 29052-120",
+    "city": "Vitória/ES",
+    "description": "Instituição voltada à difusão do livro, da leitura e de atividades culturais e formativas.",
+    "latitude": -20.3147975,
+    "longitude": -40.2991813
+  },
+  {
+    "id": 4,
+    "name": "Centro Cultural Sesc Glória",
+    "category": "Teatro",
+    "address": "Av. Jerônimo Monteiro, 428, Centro, Vitória/ES, CEP 29010-002",
+    "city": "Vitória/ES",
+    "description": "Espaço cultural com programação diversificada, incluindo música, dança, teatro e atividades formativas.",
+    "latitude": -20.3206126,
+    "longitude": -40.3352925
+  },
+  {
+    "id": 5,
+    "name": "Palácio Anchieta",
+    "category": "Artes Visuais",
+    "address": "Praça João Clímaco, 142, Cidade Alta, Centro, Vitória/ES, CEP 29015-110",
+    "city": "Vitória/ES",
+    "description": "Espaço histórico e cultural que abriga visitas guiadas e mostras de artes visuais e patrimônio cultural.",
+    "latitude": -20.3212011,
+    "longitude": -40.3397104
+  },
+  {
+    "id": 6,
+    "name": "Museu de Arte do Espírito Santo (MAES)",
+    "category": "Artes Visuais",
+    "address": "Av. Jerônimo Monteiro, 631, Centro, Vitória/ES",
+    "city": "Vitória/ES",
+    "description": "Museu dedicado à preservação e difusão das artes visuais, com exposições, ações educativas e programação cultural.",
+    "latitude": -20.3199393,
+    "longitude": -40.3344102
+  },
+  {
+    "id": 7,
+    "name": "Casa da Música Sônia Cabral",
+    "category": "Música",
+    "address": "Praça João Clímaco, s/n, Centro, Vitória/ES, CEP 29015-140",
+    "city": "Vitória/ES",
+    "description": "Espaço cultural voltado à realização de apresentações musicais, encontros formativos e atividades artísticas.",
+    "latitude": -20.3207449,
+    "longitude": -40.3389922
+  },
+  {
+    "id": 8,
+    "name": "Escola Técnica Municipal de Teatro, Dança e Música (FAFI)",
+    "category": "Dança",
+    "address": "Av. Jerônimo Monteiro, 656, Centro Histórico, Vitória/ES, CEP 29010-004",
+    "city": "Vitória/ES",
+    "description": "Escola técnica e espaço cultural com tradição em teatro, dança e formação artística.",
+    "latitude": -20.3198406,
+    "longitude": -40.3333418
+  },
+  {
+    "id": 9,
+    "name": "Teatro Universitário (UFES)",
+    "category": "Teatro",
+    "address": "Av. Fernando Ferrari, 514, Campus Universitário, Goiabeiras, Vitória/ES, CEP 29075-910",
+    "city": "Vitória/ES",
+    "description": "Espaço universitário para apresentações cênicas, musicais e atividades culturais vinculadas à comunidade acadêmica e externa.",
+    "latitude": -20.2774886,
+    "longitude": -40.3021655
+  },
+  {
+    "id": 10,
+    "name": "Centro Cultural Sesi",
+    "category": "Formação",
+    "address": "Rua Tupinambás, 240, Jardim da Penha, Vitória/ES, CEP 29060-810",
+    "city": "Vitória/ES",
+    "description": "Espaço voltado à promoção de atividades culturais, educativas e artísticas, com programação diversificada.",
+    "latitude": -20.2842358,
+    "longitude": -40.3002683
+  }
+]
