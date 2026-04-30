@@ -31,7 +31,6 @@ O projeto busca enfrentar o problema da fragmentação e da baixa visibilidade d
 
 ## Estrutura do projeto
 
-```id="bxomfy"
 src/
   assets/
   components/
@@ -40,40 +39,49 @@ src/
   views/
   App.vue
   main.js
-```
 
 ## Como executar o projeto
 
 ### 1. Instale as dependências
 
-```bash id="hv9s2q"
+bash id="hv9s2q"
 npm install
-```
 
 ### 2. Execute o servidor de desenvolvimento
 
-```bash id="s5h6ym"
+bash id="s5h6ym"
 npm run dev
-```
 
 ### 3. Abra no navegador
 
 O terminal mostrará um endereço local, normalmente semelhante a:
-
-```text id="o4cyrt"
 http://localhost:5173/
-```
 
 ## Dados da aplicação
 
 O projeto utiliza dois tipos de dados:
-
 - dados-base em arquivos JSON
 - dados cadastrados localmente via `localStorage`
 
 ## Observações
 
 A área administrativa deste MVP utiliza armazenamento local no navegador, sem integração com backend nesta etapa do projeto.
+
+## Banco de dados
+
+Para o Módulo 3 do Projeto Integrador II, foi elaborada uma modelagem relacional inicial para a aplicação, com o objetivo de representar em SQL os principais dados utilizados pelo MVP.
+
+A modelagem contempla as seguintes entidades:
+- categorias
+- instituições
+- eventos
+- administradores
+
+Os scripts SQL estão organizados na pasta `database/`:
+database/
+  schema.sql
+  seed.sql
+  queries.sql
 
 ## Autor
 
